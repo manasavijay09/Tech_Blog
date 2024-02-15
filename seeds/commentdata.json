@@ -1,0 +1,17 @@
+[
+    {
+      "comment_text": "Very Good",
+      "blogpost_id": 3,
+      "user_id": 1
+    },
+    {
+      "comment_text": "Excellent",
+      "blogpost_id": 2,
+      "user_id": 2
+    },
+    {
+      "comment_text": "Fantastic",
+      "blogpost_id": 1,
+      "user_id": 3
+    }
+  ]
